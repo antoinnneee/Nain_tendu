@@ -1,0 +1,5 @@
+C:\Users\claude\Documents\PSoC Creator\Rpi\Design03.cydsn\Design03.cyprj|7d359f56-3c05-4361-af85-f40be8de2546
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|857fa573-db2a-4957-8f6f-65a4b9b07c8a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5bcfb219-6018-4e6b-a48a-c62ac867901a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|9c9ce74c-3a18-4032-8642-8191f5f97a61
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d753f07c-bef3-4d96-bf20-968caf5cd00e
