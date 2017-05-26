@@ -16,7 +16,7 @@
 
 void generate_com(t_pad * pad, char *com)
 {
-    sprintf(com, "$A%dB%dX%dY%dL%dR%dSt%de%dm%dDu%dd%dl%dr%dJlx%.3dly%.3drx%.3dry%.3dTl%.3dR%.3d",
+    sprintf(com, "$A%dB%dX%dY%dL%dR%dSt%de%dm%dDu%dd%dl%dr%dJlx%.3dly%.3drx%.3dry%.3dTl%+.3dr%+.3d",
         pad->but.a, pad->but.b, pad->but.x, pad->but.y,
         pad->but.lb, pad->but.rb,
         pad->but.start, pad->but.select, pad->but.menu,
