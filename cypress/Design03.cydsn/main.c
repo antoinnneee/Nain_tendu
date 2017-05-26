@@ -73,7 +73,7 @@ static void set_ref(t_pad *pad)
     
     pad->ref.tl = &com[56];
     pad->aref[17] = pad->ref.tl;
-    pad->ref.tl = &com[60];
+    pad->ref.tr = &com[60];
     pad->aref[18] = pad->ref.tr;
 
 
@@ -82,7 +82,6 @@ static void set_ref(t_pad *pad)
 int main(void)
 {
     CyGlobalIntEnable; /* Enable global interrupts. */
-    int32 i = 0;
     t_pad mypad = init_pad();
     t_pad *pad = &mypad;
     set_ref(pad);
@@ -92,11 +91,6 @@ int main(void)
     while(1)
     {
         get_pad_struct(pad);
-                
-            
-        i++;
-        if (i > 10000)
-        i = 0;
     }
     return (0);
 }
